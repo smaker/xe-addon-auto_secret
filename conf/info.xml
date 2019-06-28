@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+	<title xml:lang="ko">자동 비밀글 설정</title>
+	<description xml:lang="ko">
+		게시물 작성 시 자동으로 비밀글 설정을 할 수 있는 애드온입니다.
+	</description>
+	<version>1.1</version>
+	<date>2015-08-26</date>
+
+	<author email_address="contact@funnyxe.com" link="http://funnyxe.com/">
+		<name xml:lang="ko">퍼니엑스이</name>
+	</author>
+</addon>
